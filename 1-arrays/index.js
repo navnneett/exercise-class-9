@@ -100,3 +100,4 @@ console.table(schedule);
 
 console.log(`I am taking ${schedule[2][0]}, ${schedule[2][1]} that is worth ${schedule[2][2]} credits`);
 //I am taking MDIA 1106, Design that is worth 3.0 credits
+
